@@ -7,7 +7,7 @@ Data Analyst | Business Intelligence | FinTech / EdTech
 📊 Experience in finance, sales, and customer analytics, with a strong foundation in FinTech and EdTech.  
 
 ## Featured Projects 🚀 
-- [**🔎 AtliQ SQL Analysis**](https://github.com/ferdinandroshan/SQL-AtliQ-Consumer-Goods-Analysis-Project) – Optimized queries, created views and stored procedures to solve business problems for a consumer goods company.
+- [**🔎 AtliQ SQL Analysis**](https://github.com/ferdinandroshan/SQL-AtliQ-Consumer-Goods-Analysis-Project) – Optimized queries, created views & stored procedures to solve business problems for a consumer goods company.
 - [**📊 Business Insights 360**](https://github.com/ferdinandroshan/Power-BI-Business-Insights-360-Project) – Comprehensive Power BI Report analyzing key business metrics for data-driven decision-making.  
 - [**📈 Sales & Finance Reports**](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project) – Built Excel Reports using Pivot Tables, Power Query, and DAX for strategic insights.  
 
