@@ -3,7 +3,7 @@
 Data Analyst | Business Intelligence | Business Strategy
 
 🔍 Passionate about turning raw data into actionable insights to drive business decisions.  
-💻 Skilled in SQL, Power BI, and Excel for data analysis, visualization, and reporting.  
+💻 Skilled in SQL, Python, Power BI, and Excel for data analysis, visualization, and reporting.  
 📊 Experience in finance, sales, marketing and customer analytics.  
 
 ## Featured Projects 🚀 
