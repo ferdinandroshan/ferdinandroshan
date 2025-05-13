@@ -1,10 +1,10 @@
 # 👋 Hey there, I'm Ferdinand  
 
-Data Analyst | Business Intelligence | FinTech / EdTech  
+Data Analyst | Business Intelligence | Business Strategy
 
 🔍 Passionate about turning raw data into actionable insights to drive business decisions.  
 💻 Skilled in SQL, Power BI, and Excel for data analysis, visualization, and reporting.  
-📊 Experience in finance, sales, and customer analytics, with a strong foundation in FinTech and EdTech.  
+📊 Experience in finance, sales, marketing and customer analytics.  
 
 ## Featured Projects 🚀 
 - [**🔎 AtliQ SQL Analysis**](https://github.com/ferdinandroshan/SQL-AtliQ-Consumer-Goods-Analysis-Project) – Optimized queries, created views & stored procedures to solve problems for a consumer goods company.
